@@ -217,3 +217,15 @@ workspace/
 # Evaluation outputs
 eval_outputs/
 builds/
+
+# Slurm logs
+logs/
+
+# Local config with API keys
+config.toml
+
+# Claude Code local settings
+.claude/
+
+# Test instance lists
+test_instances*.txt
